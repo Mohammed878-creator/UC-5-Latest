@@ -1,0 +1,4 @@
+devcontainer.json
+.terraform
+.terraform.lock.hcl
+terraform.tfstate
