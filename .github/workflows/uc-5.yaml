@@ -1,4 +1,4 @@
-name: UC3 and UC4 using docker
+name: UC5
 
 on:
   workflow_dispatch:
